@@ -95,16 +95,19 @@
 
 ## 🎵 On-care 서비스 화면
 
----
-
 ### 메인화면(일반 사용자)
 <img width="1439" alt="image" src="readme_assets/일반 사용자 메인화면.png" />
+
+</br>
 
 ### 메인화면(병원 관리자)
 <img width="1439" alt="image" src="readme_assets/병원 관리자 메인화면.png" />
 
+</br>
+
 ### 메인화면(서비스 관리자)
 ![image](<readme_assets/서비스 관리자 메인화면.png>)
+
 </br>
 </br>
 
@@ -125,12 +128,14 @@
 ### SSE 알림
 
 ![Animation](readme_assets/알림.gif)
+
 </br>
 </br>
 
 ### 건강 검진 내역 조회
 
 ![Animation](readme_assets/건강검진내역조회.gif)
+
 </br>
 </br>
 
