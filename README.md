@@ -59,13 +59,13 @@
 
 ## ✔ ERD
 
-![image](https://github.com/user-attachments/assets/aa81e8de-bdd2-4ec7-96b7-9f8420f625f9)
+![image](readme_assets/ERD.png)
 
 </br>
 
 ## ✔ 시스템 아키텍쳐
 
-![image](https://github.com/user-attachments/assets/0a392ad7-cc75-40fe-be21-5384d1a4f721)
+![image](<readme_assets/시스템 아키텍처.png>)
 
 </br>
 
@@ -98,39 +98,42 @@
 ---
 
 ### 메인화면(일반 사용자)
-<img width="1439" alt="image" src="https://github.com/user-attachments/assets/57b74d91-df81-4fad-a3e9-e5c22aa6da02" />
+<img width="1439" alt="image" src="readme_assets/일반 사용자 메인화면.png" />
 
 ### 메인화면(병원 관리자)
-<img width="1439" alt="image" src="https://github.com/user-attachments/assets/5d4ae73c-3d70-430b-99d6-f96fe6cf9af5" />
+<img width="1439" alt="image" src="readme_assets/병원 관리자 메인화면.png" />
 
 ### 메인화면(서비스 관리자)
-![image](https://github.com/user-attachments/assets/7f92c0cc-e16c-4a84-ab41-2159aacb0ebf)
+![image](<readme_assets/서비스 관리자 메인화면.png>)
+</br>
+</br>
+
+### 카카오 로그인
+
+![Animation](readme_assets/소셜로그인.gif)
 
 </br>
 </br>
 
 ### 패스키 로그인
 
-![Animation](https://github.com/user-attachments/assets/12b25068-4429-4724-bd8c-eb71d7a5b940)
-
+![Animation](<readme_assets/패스키 인증.gif>)
 
 </br>
 </br>
 
 ### SSE 알림
 
-![Animation](https://github.com/user-attachments/assets/89b7af73-56a0-4f28-aca2-a779eefd6b77)
-
+![Animation](readme_assets/알림.gif)
 </br>
 </br>
 
 ### 건강 검진 내역 조회
 
-![Animation](https://github.com/user-attachments/assets/8d0c2a36-030e-4ccb-838e-87dd856ba772)
-
+![Animation](readme_assets/건강검진내역조회.gif)
 </br>
 </br>
 
 ### 리뷰 및 즐겨찾기
 
-![Animation](https://github.com/user-attachments/assets/f75fdbe2-67b9-48b0-ac72-a0c034617180)
+![Animation](<readme_assets/즐겨찾기와 리뷰.gif>)
