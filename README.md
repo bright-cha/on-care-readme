@@ -1,5 +1,4 @@
 # on-care - 병원 예약 및 건강 검진 내역 관리 서비스
- 👉 https://on-care.site
 
 </br>
 
